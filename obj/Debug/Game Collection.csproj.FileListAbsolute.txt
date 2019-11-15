@@ -1,0 +1,10 @@
+C:\Users\Jonathan Wright\source\repos\Game Collection\Game Collection\bin\Debug\Game Collection.exe.config
+C:\Users\Jonathan Wright\source\repos\Game Collection\Game Collection\bin\Debug\Game Collection.exe
+C:\Users\Jonathan Wright\source\repos\Game Collection\Game Collection\bin\Debug\Game Collection.pdb
+C:\Users\Jonathan Wright\source\repos\Game Collection\Game Collection\obj\Debug\Game Collection.csprojAssemblyReference.cache
+C:\Users\Jonathan Wright\source\repos\Game Collection\Game Collection\obj\Debug\Game_Collection.GameCollectionLibrary.resources
+C:\Users\Jonathan Wright\source\repos\Game Collection\Game Collection\obj\Debug\Game_Collection.Properties.Resources.resources
+C:\Users\Jonathan Wright\source\repos\Game Collection\Game Collection\obj\Debug\Game Collection.csproj.GenerateResource.cache
+C:\Users\Jonathan Wright\source\repos\Game Collection\Game Collection\obj\Debug\Game Collection.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan Wright\source\repos\Game Collection\Game Collection\obj\Debug\Game Collection.exe
+C:\Users\Jonathan Wright\source\repos\Game Collection\Game Collection\obj\Debug\Game Collection.pdb
